@@ -1,0 +1,6 @@
+djangorestframework
+Django
+mysqlclient
+pymysql
+cryptography
+django-mysql
